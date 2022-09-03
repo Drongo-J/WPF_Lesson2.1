@@ -1,0 +1,16 @@
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\bin\Debug\Wpf2.exe.config
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\bin\Debug\Wpf2.exe
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\bin\Debug\Wpf2.pdb
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.csproj.AssemblyReference.cache
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\MainWindow.g.cs
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\App.g.cs
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2_MarkupCompile.cache
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2_MarkupCompile.lref
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\MainWindow.baml
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.g.resources
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.Properties.Resources.resources
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.csproj.GenerateResource.cache
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.csproj.CoreCompileInputs.cache
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.exe
+C:\Users\Ahme_if16\source\repos\Wpf2\Wpf2\obj\Debug\Wpf2.pdb
